@@ -1,0 +1,20 @@
+# Xcode user settings and build products
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcresult
+*.ipa
+*.dSYM/
+
+# Local records, secrets and signing credentials
+inventory.json
+.env
+.env.*
+*.p12
+*.mobileprovision
+
+# Swift Package Manager
+.build/
+.swiftpm/
